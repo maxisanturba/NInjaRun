@@ -1,0 +1,4 @@
+repository "NInjaRun@msanturba@cloud"
+  path "/"
+    br "/main"
+    co "/main"
